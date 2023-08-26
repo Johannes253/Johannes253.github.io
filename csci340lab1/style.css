@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Tilt+Prism&display=swap');
+
+
 body {
     background-color: lightblue;
   }
@@ -11,11 +14,20 @@ body {
 .products{
     background-color: aqua;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-left: 1cm;
  }
+
+div{
+    margin-top: 2cm;
+}
+
+#doors{
+    margin-top: -1.5cm;
+}
 
  figcaption{
     font-size: 10px;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: 'Tilt Prism', cursive;
  }
 
  img{
