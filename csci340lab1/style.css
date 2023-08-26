@@ -12,3 +12,14 @@ body {
     background-color: aqua;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
  }
+
+ figcaption{
+    font-size: 10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+ }
+
+ img{
+    width: 200px;
+    height: 200px;
+ }
+
