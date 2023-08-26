@@ -1,1 +1,14 @@
-
+body {
+    background-color: lightblue;
+  }
+  
+  h1 {
+    color: rgb(255, 0, 174);
+    text-align: center;
+    font-family: "Sofia", sans-serif;
+  }
+  
+.products{
+    background-color: aqua;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ }
